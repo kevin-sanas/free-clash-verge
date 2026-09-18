@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:49:10.162400+00:00",
+  "generated_at": "2026-09-18T15:37:30.021093+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -13,15 +13,15 @@
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
-      "received": 1624,
-      "added": 528
+      "received": 1596,
+      "added": 547
     },
     {
       "name": "awesome-vpn/awesome-vpn",
       "url": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml",
       "ok": true,
       "received": 47,
-      "added": 34
+      "added": 32
     },
     {
       "name": "vxiaov/free_proxies",
@@ -34,21 +34,21 @@
       "name": "ermaozi/get_subscribe",
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
-      "received": 402,
-      "added": 372
+      "received": 339,
+      "added": 316
     },
     {
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
-      "received": 1520,
-      "added": 1449
+      "received": 567,
+      "added": 553
     },
     {
       "name": "ermaozi01/free_clash_vpn",
       "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
       "ok": true,
-      "received": 17,
+      "received": 13,
       "added": 0
     },
     {
@@ -56,21 +56,21 @@
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
       "received": 27,
-      "added": 2
+      "added": 0
     },
     {
       "name": "NiceVPN123/NiceVPN",
       "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml",
       "ok": true,
       "received": 3646,
-      "added": 3142
+      "added": 3129
     },
     {
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
       "received": 27,
-      "added": 1
+      "added": 0
     }
   ]
 }
