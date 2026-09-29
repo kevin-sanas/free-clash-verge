@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:33:35.288114+00:00",
+  "generated_at": "2026-09-29T06:12:30.792481+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -13,14 +13,14 @@
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
-      "received": 1600,
-      "added": 676
+      "received": 1609,
+      "added": 659
     },
     {
       "name": "awesome-vpn/awesome-vpn",
       "url": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml",
       "ok": true,
-      "received": 50,
+      "received": 48,
       "added": 26
     },
     {
@@ -34,21 +34,21 @@
       "name": "ermaozi/get_subscribe",
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
-      "received": 359,
-      "added": 328
+      "received": 367,
+      "added": 335
     },
     {
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
       "received": 1651,
-      "added": 1561
+      "added": 1565
     },
     {
       "name": "ermaozi01/free_clash_vpn",
       "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
       "ok": true,
-      "received": 9,
+      "received": 16,
       "added": 0
     },
     {
@@ -56,21 +56,21 @@
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
       "received": 27,
-      "added": 1
+      "added": 2
     },
     {
       "name": "NiceVPN123/NiceVPN",
       "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml",
       "ok": true,
       "received": 3646,
-      "added": 3141
+      "added": 3142
     },
     {
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
-      "received": 27,
-      "added": 0
+      "received": 29,
+      "added": 3
     }
   ]
 }
